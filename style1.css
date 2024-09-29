@@ -1,0 +1,71 @@
+.header {
+    background-image: url(black-on-white_2.jpg);
+    height: 700px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    align-items: center;
+    background-position: 50% 50%;
+    font-family: 'Yeseva One', 'cursive';
+}
+
+img {
+    width: 100%;
+}
+
+.blue {
+    background-color: #a6d2d5;
+    padding: 20px;
+    font-family: 'Yeseva One', 'cursive';
+}
+
+.coladge {
+    background-image: url(collage.jpg);
+    background-size: cover;
+    padding: 20px;
+}
+
+blockquote {
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.555);
+}
+
+.big-photo {
+    background-image: url(phone-3.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    font-family: 'Yeseva One', 'cursive';
+    padding: 100px 0;
+}
+
+.photo {
+    background-color: #a6d2d5;
+    padding: 100px 0;
+    font-family: 'Yeseva One', 'cursive';
+    align-items: center;
+    justify-content: start;
+}
+
+.row-fixed {
+    background-image: url(forest.jpg);
+    background-size: cover;
+    padding: 100px;
+    background-position: 50% 50%;
+    background-attachment: fixed;
+}
+
+.row-fixed .col-12 {
+    padding: 50px;
+    margin: 50px 0;
+    background-color: rgba(255, 255, 255, 0.548);
+}
+
+.bg-dark {
+    background-color: #06261b;
+    color: aliceblue;
+    padding: 50px 0;
+}
+
+.navbar {
+    background-color: #a6d2d5;
+}
